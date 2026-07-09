@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Hemavathi! 👋
 
-<!--
-**Hemavathiv/hemavathiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced **Full Stack Software Engineer** with **7.7 years of professional expertise** building robust web applications. After a career break, I am currently leveraging my strong software foundations to modernize my skill set into **Cloud-Native architectures** and **Generative AI workflows**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Expertise
+
+* **Core Backend:** PHP, Node.js, Express
+* **Modern Frontend:** React.js, jQuery, HTML5, CSS3, JavaScript (ES6+)
+* **Databases:** MySQL, Relational Database Design
+* **Current Focus:** Cloud-Native Development, Docker, Kubernetes, Generative AI for Software Engineering (via IBM)
+
+---
+
+### 📊 Current Focus & Upskilling
+
+I am actively working through the **IBM Full Stack Software Developer Professional Certificate** to bridge my stack to modern tech standards, focusing heavily on containerization, microservices, and AI-driven productivity.
+
+* 🛠️ **Actively Building:** [IBM Full Stack Labs & Projects]
+* 💬 **Ask me about:** PHP architectures, React component design, and database optimization.
+
