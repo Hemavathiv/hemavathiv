@@ -24,6 +24,6 @@ I am actively working through the **IBM Full Stack Software Developer Profession
 
 ### 📬 Let's Connect!
 
-[![LinkedIn Profile](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/hemavathi-v-31155a114/))
+[![LinkedIn Profile](https://shields.io)](https://www.linkedin.com/in/hemavathi-v-31155a114/)
 
 
