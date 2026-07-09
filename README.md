@@ -20,3 +20,7 @@ I am actively working through the **IBM Full Stack Software Developer Profession
 * 🛠️ **Actively Building:** [IBM Full Stack Labs & Projects]
 * 💬 **Ask me about:** PHP architectures, React component design, and database optimization.
 
+---
+
+### 📬 Let's Connect!
+[<img src="https://shields.io" alt="LinkedIn Badge" />]https://www.linkedin.com/in/hemavathi-v-31155a114/
